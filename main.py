@@ -444,11 +444,11 @@ if __name__ == '__main__':
     #     print(f'N-grams in category: {category}')
     #     plot_ngrams(posts, category, [1, 2, 3, 4, 5, 6, 7, 8], 15)
     ##### Clustering #####
-    # for all data:  #TODO: run again - needs a few goo d hours
-    print(determine_optimal_clusters(all_clean_posts))
-    clusters_num = int(input("How many clusters are best for all: "))
-    cluster_and_generate_wordclouds(all_clean_posts,clusters_num,
-                                    font_path='yumin.ttf')
+    # for all data:  # Running time impractical - maybe try again in the future
+    # print(determine_optimal_clusters(all_clean_posts))
+    # clusters_num = int(input("How many clusters are best for all: "))
+    # cluster_and_generate_wordclouds(all_clean_posts,clusters_num,
+    #                                 font_path='yumin.ttf')
     # per category:
     # for category, posts in clean_categories.items():
     #     print(f'Clustering in category: {category}')
