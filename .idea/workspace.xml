@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ffc1e0f-4b28-4fb2-82ea-9d538bb534f4" name="Changes" comment="Large files deleted and stored locally (Document Information files from Topic Modeling folder)">
+      <change afterPath="$PROJECT_DIR$/.idea/AmebaBlogsResearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Ginza Posts - Clustered PCA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Ginza Posts - Clustered T-sne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Sillouette Score - Ginza Posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/All posts - Ginza/Wordclouds/Cluster_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Fertility Ginza Posts - Clustered T-sne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Sillouette Score - Fertility Ginza Posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Fertility/Wordclouds/Cluster_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Parenting Babies Ginza Posts - Clustered T-sne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Sillouette Score - Parenting Babies Ginza Posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Babies/Wordclouds/Cluster_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Parenting Elementary Ginza Posts - Clustered T-sne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Sillouette Score - Parenting Elementary Ginza Posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Elementary/Wordclouds/Cluster_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Parenting Toddlers Ginza Posts - Clustered T-sne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Sillouette Score - Parenting Toddlers Ginza Posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Parenting Toddlers/Wordclouds/Cluster_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Pregnancy Journaling Ginza Posts - Clustered T-sne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Sillouette Score - Pregnancy Journaling Ginza Posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Clustering/Pregnancy Journaling/Wordclouds/Cluster_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/All Posts - Ginza/All Ginza N-grams.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/All Posts - Ginza/all_top_15_1_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/All Posts - Ginza/all_top_15_2_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/All Posts - Ginza/all_top_15_3_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/All Posts - Ginza/all_top_15_4_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/All Posts - Ginza/all_top_15_5_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/All Posts - Ginza/all_top_15_6_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/All Posts - Ginza/all_top_15_7_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/All Posts - Ginza/all_top_15_8_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Fertility/fertility N-grams.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Fertility/fertility_top_15_1_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Fertility/fertility_top_15_2_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Fertility/fertility_top_15_3_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Fertility/fertility_top_15_4_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Fertility/fertility_top_15_5_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Fertility/fertility_top_15_6_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Fertility/fertility_top_15_7_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Fertility/fertility_top_15_8_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Babies/parenting babies N-grams.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Babies/parenting babies_top_15_1_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Babies/parenting babies_top_15_2_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Babies/parenting babies_top_15_3_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Babies/parenting babies_top_15_4_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Babies/parenting babies_top_15_5_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Babies/parenting babies_top_15_6_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Babies/parenting babies_top_15_7_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Babies/parenting babies_top_15_8_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Elementary/parenting elementary+ N-grams.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Elementary/parenting elementary+_top_15_1_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Elementary/parenting elementary+_top_15_2_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Elementary/parenting elementary+_top_15_3_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Elementary/parenting elementary+_top_15_4_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Elementary/parenting elementary+_top_15_5_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Elementary/parenting elementary+_top_15_6_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Elementary/parenting elementary+_top_15_7_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Elementary/parenting elementary+_top_15_8_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Toddlers/parenting toddlers N-grams.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Toddlers/parenting toddlers_top_15_1_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Toddlers/parenting toddlers_top_15_2_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Toddlers/parenting toddlers_top_15_3_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Toddlers/parenting toddlers_top_15_4_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Toddlers/parenting toddlers_top_15_5_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Toddlers/parenting toddlers_top_15_6_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Toddlers/parenting toddlers_top_15_7_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Parenting Toddlers/parenting toddlers_top_15_8_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Pregnancy Journaling/pregnancy journaling N-grams.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Pregnancy Journaling/pregnancy journaling_top_15_1_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Pregnancy Journaling/pregnancy journaling_top_15_2_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Pregnancy Journaling/pregnancy journaling_top_15_3_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Pregnancy Journaling/pregnancy journaling_top_15_4_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Pregnancy Journaling/pregnancy journaling_top_15_5_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Pregnancy Journaling/pregnancy journaling_top_15_6_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Pregnancy Journaling/pregnancy journaling_top_15_7_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Pregnancy Journaling/pregnancy journaling_top_15_8_grams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Themes/All Posts_top_15_themes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Themes/Fertility_top_15_themes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Themes/Parenting Babies_top_15_themes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Themes/Parenting Elementary+_top_15_themes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Themes/Parenting Toddlers_top_15_themes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/N-grams/Themes/Pregnancy Journaling_top_15_themes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Sentiment Analysis/All posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Sentiment Analysis/Fertility posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Sentiment Analysis/Parenting babies posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Sentiment Analysis/Parenting elementary+ posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Sentiment Analysis/Pregnancy journaling posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Sentiment Analysis/parenting toddlers posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/All Posts/Barchart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/All Posts/Documents Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/All Posts/Hierarchy Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/All Posts/Topic_Information.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/All Posts/Topics Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Fertility/Barchart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Fertility/Document_Information.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Fertility/Documents Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Fertility/Hierarchy Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Fertility/Topic_Information.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Fertility/Topics Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Keywords/Barchart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Keywords/Document_Information.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Keywords/Documents Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Keywords/Hierarchy Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Keywords/Topic_Information.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Keywords/Topics Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Babies/Barchart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Babies/Document_Information.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Babies/Documents Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Babies/Hierarchy Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Babies/Topic_Information.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Babies/Topics Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Elementary/Barchart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Elementary/Document_Information.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Elementary/Documents Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Elementary/Hierarchy Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Elementary/Topic_Information.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Elementary/Topics Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Toddlers/Barchart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Toddlers/Document_Information.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Toddlers/Documents Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Toddlers/Hierarchy Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Toddlers/Topic_Information.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Parenting Toddlers/Topics Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Pregnancy Journaling/Barchart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Pregnancy Journaling/Document_Information.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Pregnancy Journaling/Documents Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Pregnancy Journaling/Hierarchy Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Pregnancy Journaling/Topic_Information.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Topic Modeling/Ginza/Pregnancy Journaling/Topics Chart plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Users Pie Charts/Birth Date Pie Chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Users Pie Charts/Blood Type Pie Chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Users Pie Charts/Current Location Pie Chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Users Pie Charts/Gender Pie Chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Users Pie Charts/Marriage Status Pie Chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Users Pie Charts/Occupation Pie Chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Users Pie Charts/Origin Location Pie Chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Users Pie Charts/Top User Pie Chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Raw Blog Posts CSVs/fertility_20_w_text_clean.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Raw Blog Posts CSVs/parenting babies_20_w_text_clean.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Raw Blog Posts CSVs/parenting elementary+_20_w_text_clean.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Raw Blog Posts CSVs/parenting toddlers_20_w_text_clean.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Raw Blog Posts CSVs/pregnancy journaling_20_w_text_clean.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User Ranking CSVs/fertility_user_details.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User Ranking CSVs/parenting babies_user_details.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User Ranking CSVs/parenting elementary+_user_details.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User Ranking CSVs/parenting toddlers_user_details.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User Ranking CSVs/pregnancy journaling_user_details.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_scraping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fertility_sentiment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/initial_scraping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_CSV/6 - keys words no sentiment/fertility_text_tokenized_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_CSV/6 - keys words no sentiment/parenting babies_text_tokenized_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_CSV/6 - keys words no sentiment/parenting elementary+_text_tokenized_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_CSV/6 - keys words no sentiment/parenting toddlers_text_tokenized_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_CSV/6 - keys words no sentiment/pregnancy journaling_text_tokenized_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parenting babies_sentiment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parenting elementary+_sentiment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parenting toddlers_sentiment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pregnancy journaling_sentiment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stopwords_ja.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yumin.ttf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IggieB&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IggieB/Ameba_Blogs_NLP.git&quot;,
+    &quot;accountId&quot;: &quot;d89fb327-a46c-4271-a71c-dd50f0615509&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2imG7ngaNdxuCeFrqs0ZPibYmE9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.blog_scraping.executor": "Run",
+    "Python.initial_scraping.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.plots.executor": "Run",
+    "Python.scraping.executor": "Run",
+    "Python.spells_scraping.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Avigail",
+    "last_opened_file_path": "C:/Users/iggie/Documents/Uni/HarryPotterSpells",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.plots">
+    <configuration name="blog_scraping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AmebaBlogsResearch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blog_scraping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="initial_scraping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AmebaBlogsResearch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\iggie\Documents\Uni\תואר שני\שנה 1\נשים צריכה וזהות\AmebaBlogsResearch\initial_scraping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AmebaBlogsResearch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AmebaBlogsResearch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spells_scraping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AmebaBlogsResearch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../HarryPotterSpells" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../HarryPotterSpells/spells_scraping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plots" />
+        <item itemvalue="Python.spells_scraping" />
+        <item itemvalue="Python.initial_scraping" />
+        <item itemvalue="Python.blog_scraping" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ffc1e0f-4b28-4fb2-82ea-9d538bb534f4" name="Changes" comment="" />
+      <created>1720088173343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720088173343</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Large files deleted and stored locally (Document Information files from Topic Modeling folder)">
+      <option name="closed" value="true" />
+      <created>1728983161907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728983161907</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Large files deleted and stored locally (Document Information files from Topic Modeling folder)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Large files deleted and stored locally (Document Information files from Topic Modeling folder)" />
+  </component>
+</project>
