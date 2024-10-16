@@ -1,28 +1,26 @@
 <div align="center">
   <h1 align="center">Blogs NLP Analysis - Japan's Birth Crisis Research</h1>
-  <h3>NLP Project for Funsies</h3>
+  <h3>Another NLP Project for Fun</h3>
 
-<a><img src="https://images.unsplash.com/photo-1597590094308-e283f0f2030b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2FuZHxlbnwwfHwwfHx8MA%3D%3D" alt="Photo by Kenny Gaines on Unsplash" style="width:250px;height:375px"></a>
+<a><img src="https://www3.nhk.or.jp/news/html/20240605/K10014471471_2406051701_0605180037_02_03.jpg" alt="Photo published in the article 「去年の合計特殊出生率 1.20で過去最低に 東京は「1」を下回る」on the news site NHK" style="width:640px;height:360px"></a>
 
 </div>
 
 <br/>
 
-## General Description ✨
+## General Description 📋
 
-This project was an initial attempt to use pre-made NLP models such as RoBERTa, DistilRoBERTa, and others to perform sentiment and emotion analysis on text portions 
-in Harry Potter that mention spells explicitly. The intention was to produce certain insights regarding the representation of magic (and specifically spells) using 
-the results. 
+This project is part of a seminar paper attempting to explore which insights regarding Japan's birth crisis can be found in related blogs on the popular platform [Ameba Blog](https://www.ameba.jp/). 10,000 posts were sampled based on the internal ranking lists of five related categories (fertility, pregnancy journaling, childrearing, etc.) and processed using several transformer-based models for Japanese corpora. 
 
-## Project Steps 🪄
+## Project Steps 📝
 
-- Scraping all spells appearing in the series to produce a comprehensive list
-- Finding all sentences (and later paragraphs) in the books in which those spells appear
-- Processing all the text samples for the analysis
-- Running the actual sentiment and emotion analysis using pre-made models
+- Scraping the 100 leading blogs (and user details) in the five categories chosen for the project (2.9.24)
+- Scraping the last 20 posts from each blog (2.9.24)
+- Pre-processing all the text samples for the analysis
+- Processing the posts, which included n-gram generation, clustering, topic modeling and sentiment analysis (a keyword extraction function was also written but the results were not used)
 - Plotting the results after saving them as CSV files
 
-#### 1. Spells Scraping - "spells_scraping.py" ✨
+#### 1. Spells Scraping - "spells_scraping.py" 📋
 
 All spells were scraped from [Harry Potter Wiki list of spells](https://harrypotter.fandom.com/wiki/List_of_spells) using BeautifulSoup and saved as 
 a regular txt file. Out of the said list, 2 spells had to be removed and later added manually ("Pack" and "Point Me") as their phrasing is too similar to everyday language and
@@ -35,7 +33,7 @@ an intersection. Each sample was saved in 2 forms - the sentence itself ("all_bo
 and after the target sentence for extra context ("all_books_spells_paragraphs.csv"). The samples were later processed for analysis, including the removal of stopwords, 
 punctuation, and lemmatization. Finally, the specific sentences containing the problematic spells mentioned earlier were added and processed using separate functions.
 
-#### 4. Sentiment and Emotion Analysis - "main.py" ✨
+#### 4. Sentiment and Emotion Analysis - "main.py" 📋
 
 Due to time constraints (and interest in testing the usability of pre-made models), all models used in this project were run without additional training. As context impacted the
 results, sentiment analysis was done on both sentence and paragraph samples, whereas emotion analysis was done only for paragraph samples. The models used for sentiment analysis are:
