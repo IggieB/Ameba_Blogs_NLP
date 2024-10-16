@@ -464,7 +464,7 @@ if __name__ == '__main__':
     #     print(f'Topic modelling in category: {category}')
     #     print(topic_modeling_bertopic(posts))
     #     continue_marker = input("Continue? ")
-    ##### Keword Extraction #####
+    ##### Keword Extraction ######
     # for category, path in TOKENIZED_PATHS.items():
     #     print(category)
     #     category_df = pd.read_csv(path)
