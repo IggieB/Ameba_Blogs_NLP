@@ -20,13 +20,11 @@ This project is part of a seminar paper attempting to explore which insights reg
 - Processing the posts, which included n-gram generation, clustering, topic modeling and sentiment analysis (a keyword extraction function was also written but the results were not used)
 - Plotting the results after saving them as CSV files
 
-#### 1. Spells Scraping - "spells_scraping.py" 📋
+#### 1. Blog Scraping - "blog_scraping.py" 📋
 
-All spells were scraped from [Harry Potter Wiki list of spells](https://harrypotter.fandom.com/wiki/List_of_spells) using BeautifulSoup and saved as 
-a regular txt file. Out of the said list, 2 spells had to be removed and later added manually ("Pack" and "Point Me") as their phrasing is too similar to everyday language and
-they produced a lot of false positives in later stages.
+The leading 100 leading blogs (and user details) were scraped from the five following categories in Ameba Blog: [ベビ待ち・不妊治療・妊活](https://blogger.ameba.jp/genres/bebimachi), [妊娠記録](https://blogger.ameba.jp/genres/maternity), [子育て(ベビー)](https://blogger.ameba.jp/genres/baby), [子育て(幼児)](https://blogger.ameba.jp/genres/kids) and [子育て(小学生以上)](https://blogger.ameba.jp/genres/school-kids). Afterward, the last 20 posts were scraped from each blog and all information was saved as CSV files (available in User Ranking CSVs folder and Raw Blog Posts CSVs). It is important to note that posts with less than 5 characters (containing visual content only) were removed, after which 9836 posts remained as a sample.
 
-#### 2 + 3. Spells Tracing and Processing - "find_spells_sentences.py" 🪄
+#### 2 + 3. Posts Pre-Processing and Processing - "main.py" 📝
 
 The text sampling was done by cross-referencing each sentence in the book (post-tokenization) with a spell list saved in the previous step, and saving the text whenever there's
 an intersection. Each sample was saved in 2 forms - the sentence itself ("all_books_spells_sentences.csv") and the surrounding paragraph containing 2 additional sentences before
@@ -50,9 +48,7 @@ Finally, the results were all saved as CSV files.
 
 #### 5. Plotting The Results - "plots.py" 🪄
 
-The analysis results were plotted using Seaborn and Matplotlib. The focus was mostly on the presence of different sentiments/emotions throughout the books hoping to get a certain
-"timeline" for changes if there are any, and which spells were often categorized as specific sentiments/emotions, to check whether there are certain underlying connotations for
-certain spells (and if so, which).
+All rights regarding the raw data used in this project (the blog posts analyzed) belong to their original authors. They were used as research material only, and for no monetary gains of any kind.
 
 ```
 
