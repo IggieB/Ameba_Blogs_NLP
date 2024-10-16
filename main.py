@@ -283,7 +283,7 @@ def topic_modeling_bertopic(tokenized_posts):
     """
     This function executes topic modeling of the text using the BERTopic
     model developed by Maarten Grootendorst
-    (https://maartengr.github.io/BERTopic/index.html#visualizations).
+    (https://maartengr.github.io/BERTopic/index.html).
     :param tokenized_posts: The posts' text after tokenization
     :return: Nothing, generates several plots of the results.
     """
